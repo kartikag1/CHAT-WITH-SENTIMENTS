@@ -2,7 +2,7 @@
 
 ## Group chat application along with sentiment analysis of the message.
 
-##*************************************Screenshots*************************************
+*************************************Screenshots*************************************
 
 <img src="screenshots/angry.JPG" />
 
