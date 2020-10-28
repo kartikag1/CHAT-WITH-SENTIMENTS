@@ -40,6 +40,9 @@ app.post("/s-analyzer", function (req, res, next) {
   res.status(200).json({ analysis });
 });
 
-app.listen(4000, () => {
-  console.log("api running on port 4000");
+let port = 4000 || process.env.PORT;
+
+app.listen(port, () => {
+  console.log(`api running on port ${port}`);
 });
+
