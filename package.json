@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "devStart": "node sentiments.js"
+    "start": "node sentiments.js"
   },
   "author": "",
   "license": "ISC",
